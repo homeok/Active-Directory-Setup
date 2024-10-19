@@ -32,16 +32,40 @@ Select Desktop Experience:  <br/>
 <img src="https://i.imgur.com/gYeHAPC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Admin Password:  <br/>
+<img src="https://i.imgur.com/83kRhKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sign in as Admin:  <br/>
+<img src="https://i.imgur.com/Q8WpCfS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Server Dashboard:  <br/>
+<img src="https://i.imgur.com/yLQ34Pc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Select Role and Features:  <br/>
+<img src="https://i.imgur.com/lqjLuaX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Add Domain Services:  <br/>
+<img src="https://i.imgur.com/TOdwCsp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Installing Service:  <br/>
+<img src="https://i.imgur.com/RhwMvFP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Promote the Server:  <br/>
+<img src="https://i.imgur.com/2xzL7gO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Add New Forest and Domain Name:  <br/>
+<img src="https://i.imgur.com/krBRcYa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+New Domain:  <br/>
+<img src="https://i.imgur.com/hzLIn0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
